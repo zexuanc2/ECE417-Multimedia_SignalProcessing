@@ -1,0 +1,7 @@
+Pillow
+matplotlib
+gradescope-utils
+numpy
+h5py
+
+
